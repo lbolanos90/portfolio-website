@@ -130,9 +130,6 @@ button:focus,
     box-sizing:border-box; 
 }
 
-.social-media {
-/*This I wrote because it was in the curriculom, has no actual CSS*/
-}
 
 .page-header {
     display:flex;
